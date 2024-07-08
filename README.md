@@ -1,4 +1,4 @@
-## Olá! Prazer, eu sou o Dionathan Boing!🚀
+## Olá! Eu sou o Dionathan Boing! 🚀
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k1shoy/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dionathan-boing-mesquita-210488236/)
 ## Tecnologias que estou estudando 💻 
