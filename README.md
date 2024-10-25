@@ -13,5 +13,5 @@
 
 </div><br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DionathanDevs&theme=transparent&bg_color=E94D4F&border_color=000&&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&hide_title=true&hide=stars)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DionathanDevs&theme=transparent&bg_color=E94D4F&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&hide_title=true&hide=stars)
   
